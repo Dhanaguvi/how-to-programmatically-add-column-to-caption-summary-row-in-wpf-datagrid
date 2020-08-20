@@ -2,6 +2,7 @@
 
 How to programmatically add column to caption summary row in WPF DataGrid (SfDataGrid)?
 # About the sample
+
 In SfDataGrid, you can add column to caption summary row by adding GridSummaryColumn to CaptionSummaryRow.SummaryColumns.
 
 ```c#
